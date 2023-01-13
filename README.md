@@ -1,5 +1,9 @@
 # RepoSOLID
- Practicando con los cinco principios SOLID
+
+CURSOS AQUÍ:
+https://vladodotnet.kpages.online/seriesdesdecero
+
+Practicando con los cinco principios SOLID
 PROYECTOS TIPO .NET C# CONSOLE
 
 SIGA EL PASO A PASO!
