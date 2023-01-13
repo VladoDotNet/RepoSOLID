@@ -121,11 +121,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\VladoDotnetRepository\\SOLID\\Infraestructura\\Infraestructura.csproj",
+      "projectUniqueName": "C:\\RepoSOLID\\Infraestructura\\Infraestructura.csproj",
       "projectName": "Infraestructura",
-      "projectPath": "C:\\VladoDotnetRepository\\SOLID\\Infraestructura\\Infraestructura.csproj",
+      "projectPath": "C:\\RepoSOLID\\Infraestructura\\Infraestructura.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\VladoDotnetRepository\\SOLID\\Infraestructura\\obj\\",
+      "outputPath": "C:\\RepoSOLID\\Infraestructura\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -142,8 +142,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\VladoDotnetRepository\\SOLID\\Core.SOLID\\Core.SOLID.csproj": {
-              "projectPath": "C:\\VladoDotnetRepository\\SOLID\\Core.SOLID\\Core.SOLID.csproj"
+            "C:\\RepoSOLID\\Core.SOLID\\Core.SOLID.csproj": {
+              "projectPath": "C:\\RepoSOLID\\Core.SOLID\\Core.SOLID.csproj"
             }
           }
         }
@@ -173,7 +173,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

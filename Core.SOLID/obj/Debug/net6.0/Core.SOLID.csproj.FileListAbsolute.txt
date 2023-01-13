@@ -46,3 +46,15 @@ C:\VladoDotnetRepository\SOLID\Core.SOLID\obj\Debug\net6.0\Core.SOLID.dll
 C:\VladoDotnetRepository\SOLID\Core.SOLID\obj\Debug\net6.0\refint\Core.SOLID.dll
 C:\VladoDotnetRepository\SOLID\Core.SOLID\obj\Debug\net6.0\Core.SOLID.pdb
 C:\VladoDotnetRepository\SOLID\Core.SOLID\obj\Debug\net6.0\ref\Core.SOLID.dll
+C:\RepoSOLID\Core.SOLID\bin\Debug\net6.0\Core.SOLID.deps.json
+C:\RepoSOLID\Core.SOLID\bin\Debug\net6.0\Core.SOLID.dll
+C:\RepoSOLID\Core.SOLID\bin\Debug\net6.0\Core.SOLID.pdb
+C:\RepoSOLID\Core.SOLID\obj\Debug\net6.0\Core.SOLID.csproj.AssemblyReference.cache
+C:\RepoSOLID\Core.SOLID\obj\Debug\net6.0\Core.SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepoSOLID\Core.SOLID\obj\Debug\net6.0\Core.SOLID.AssemblyInfoInputs.cache
+C:\RepoSOLID\Core.SOLID\obj\Debug\net6.0\Core.SOLID.AssemblyInfo.cs
+C:\RepoSOLID\Core.SOLID\obj\Debug\net6.0\Core.SOLID.csproj.CoreCompileInputs.cache
+C:\RepoSOLID\Core.SOLID\obj\Debug\net6.0\Core.SOLID.dll
+C:\RepoSOLID\Core.SOLID\obj\Debug\net6.0\refint\Core.SOLID.dll
+C:\RepoSOLID\Core.SOLID\obj\Debug\net6.0\Core.SOLID.pdb
+C:\RepoSOLID\Core.SOLID\obj\Debug\net6.0\ref\Core.SOLID.dll

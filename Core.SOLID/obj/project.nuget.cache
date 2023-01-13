@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0HuDyklqkQ+Fil6yBBq3L6OJR032tg42a0C4UYdnfiFncoI9cqwJhQOFGMKroScJbdmyqTNbmgXYSRlNsJ6XFg==",
+  "dgSpecHash": "tL1sLu+lMxkrQDoaSQMWJvc993MxIQ3rP1Dh0KbWUpMfCs+JWG7ksd8y1Y3wKy3X6DSWYpwPOkYSxDFZPuj9DA==",
   "success": true,
-  "projectFilePath": "C:\\VladoDotnetRepository\\SOLID\\Core.SOLID\\Core.SOLID.csproj",
+  "projectFilePath": "C:\\RepoSOLID\\Core.SOLID\\Core.SOLID.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
   ],

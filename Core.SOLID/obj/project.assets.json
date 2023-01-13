@@ -103,11 +103,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\VladoDotnetRepository\\SOLID\\Core.SOLID\\Core.SOLID.csproj",
+      "projectUniqueName": "C:\\RepoSOLID\\Core.SOLID\\Core.SOLID.csproj",
       "projectName": "Core.SOLID",
-      "projectPath": "C:\\VladoDotnetRepository\\SOLID\\Core.SOLID\\Core.SOLID.csproj",
+      "projectPath": "C:\\RepoSOLID\\Core.SOLID\\Core.SOLID.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\VladoDotnetRepository\\SOLID\\Core.SOLID\\obj\\",
+      "outputPath": "C:\\RepoSOLID\\Core.SOLID\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -157,7 +157,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
